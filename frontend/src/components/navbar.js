@@ -16,7 +16,7 @@ function Navbar() {
   const navLinks = [
     { text: "Home", path: "/" },
     { text: "About Us", path: "/about-us" },
-    { text: "Our Tradition", path: "/yoga-tradition" },
+    { text: "Our Tradition", path: "/our-tradition" },
     { text: "Yoga Chakra", path: "/yoga-chakra" },  // Added the Yoga Chakra link
     { text: "Courses", path: "/courses" },
     { text: "Contact", path: "/contact" },
