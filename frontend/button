@@ -1,0 +1,7 @@
+<Button
+          variant="contained"
+          className={classes.ctaButton}
+          onClick={() => alert("Sign up for a class!")}
+        >
+          Sign Up Now
+        </Button>
